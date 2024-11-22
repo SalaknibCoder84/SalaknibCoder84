@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalaknibCoder84
 - 👀 I’m interested in creating educational apps for my students as I am a teacher. 
-- 🌱 I’m currently learning HTML at freecodecamp.
+- 🌱 I’m currently learning HTML and CSS at freecodecamp.
 - 💞️ I’m looking to collaborate on beginner learner activities.
 - 📫 How to reach me 
 - 😄 Pronouns: straight male. Call me salaknib 
